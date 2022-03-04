@@ -1,0 +1,288 @@
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: ease;
+          transition-timing-function: ease;
+  z-index: -1;
+}
+
+.btn.slide-bg:hover {
+  color: white;
+}
+
+.btn.slide-bg:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg2 {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg2 span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  z-index: -1;
+}
+
+.btn.slide-bg2:hover {
+  color: white;
+}
+
+.btn.slide-bg2:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg3 {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg3 span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+  z-index: -1;
+}
+
+.btn.slide-bg3:hover {
+  color: white;
+}
+
+.btn.slide-bg3:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg4 {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg4 span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: ease-out;
+          transition-timing-function: ease-out;
+  z-index: -1;
+}
+
+.btn.slide-bg4:hover {
+  color: white;
+}
+
+.btn.slide-bg4:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg5 {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg5 span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: step-start;
+          transition-timing-function: step-start;
+  z-index: -1;
+}
+
+.btn.slide-bg5:hover {
+  color: white;
+}
+
+.btn.slide-bg5:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  padding: 10px 40px;
+  margin: 50px 0;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 1;
+}
+
+.btn.slide-bg6 {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn.slide-bg6 span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+  -webkit-transition-timing-function: step-end;
+          transition-timing-function: step-end;
+  z-index: -1;
+}
+
+.btn.slide-bg6:hover {
+  color: white;
+}
+
+.btn.slide-bg6:hover span {
+  -webkit-transform: none;
+          transform: none;
+}
+/*# sourceMappingURL=slide-button.css.map */
