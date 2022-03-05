@@ -5,7 +5,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -30,8 +29,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: ease;
           transition-timing-function: ease;
   z-index: -1;
@@ -53,7 +52,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -78,8 +76,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: linear;
           transition-timing-function: linear;
   z-index: -1;
@@ -101,7 +99,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -126,8 +123,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: ease-in;
           transition-timing-function: ease-in;
   z-index: -1;
@@ -149,7 +146,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -174,8 +170,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: ease-out;
           transition-timing-function: ease-out;
   z-index: -1;
@@ -197,7 +193,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -222,8 +217,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: step-start;
           transition-timing-function: step-start;
   z-index: -1;
@@ -245,7 +240,6 @@
   width: 150px;
   height: 50px;
   padding: 10px 40px;
-  margin: 50px 0;
   font-weight: 600;
   cursor: pointer;
   -webkit-transition: all 0.3s;
@@ -270,8 +264,8 @@
           transform: translateX(-100%);
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.8s;
-          transition-duration: 0.8s;
+  -webkit-transition-duration: 0.5s;
+          transition-duration: 0.5s;
   -webkit-transition-timing-function: step-end;
           transition-timing-function: step-end;
   z-index: -1;

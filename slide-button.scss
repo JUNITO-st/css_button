@@ -9,7 +9,6 @@ $cBlack: black;
     width: 150px;
     height: 50px;
     padding: 10px 40px;
-    margin: 50px 0;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s;
@@ -28,7 +27,7 @@ $cBlack: black;
 
 @mixin slide-move(
     $transition-property: all,
-    $transition-duration: 0.8s,
+    $transition-duration: 0.5s,
     $transition-timing-function:ease
 ) {
    transition: {
